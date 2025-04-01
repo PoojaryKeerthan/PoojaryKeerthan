@@ -1,6 +1,6 @@
 # 💫 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojarykeerthan&label=Profile%20views&color=0e75b6&style=flat" alt="poojarykeerthan" /> </p>
-I’m currently working on [Find-it](https://github.com/PoojaryKeerthan/Find-it)
+I'm a Computer Science Engineering student passionate about technology and development. Currently, I'm diving deep into web development, focusing on React, Node.js, and React Native to build dynamic, user-friendly applications. I love exploring new tools and frameworks, solving challenging problems, and continuously learning.
 <br>🌱 I’m currently learning ReactNative,GoLang<br>👨‍💻 All of my projects are available at https://keerthanppoojary.vercel.app/<br>💬 Ask me about React,node,java<br>📫 How to reach me keerthanpoojary221@gmail.com
 
 
